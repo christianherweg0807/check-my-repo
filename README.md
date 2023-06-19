@@ -9,7 +9,7 @@ Aiming to help Open Source Software OSS maintainers we, at the [Sauce Labs Open 
 An automated tool built upon  [Repolinter](https://todogroup.github.io/repolinter/), that verifies if the main necessary parameters to comply with [open source best practices](https://opensource.guide/building-community/): from Readme to License, are present in the organizations or users repositories.
 By automating this verification open source projects maintenance is more effective and effortless, and can help you and your organization to have compliant software projects easier to service, test, upgrade, and maintain.
 Built with [Node.js](https://nodejs.org/en/), [Repolinter](https://www.npmjs.com/package/repolinter) and [Vue.js](https://v3.vuejs.org/), it is designed to run locally and automated, displaying results on your organization’s or user’s GitHub Page.
-
+   
 Meant to be as easy as possible to enable right away usage, all you need to do is: fork it, and enable Pages choosing gh-pages as your GitHub pages repository. That easy 😊.
 
 ## How to adopt it into my organization?
